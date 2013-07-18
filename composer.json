@@ -1,0 +1,14 @@
+{
+    "name": "mustached-robot/user",
+    "type": "fuel-module",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Jérémie Pottier",
+            "email": "jeremie.pottier@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
